@@ -1,0 +1,6 @@
+.result{
+        border: 1px solid gray;
+    overflow: auto;
+    border-radius: 5px;
+    padding: 10px
+}
